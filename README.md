@@ -1,6 +1,6 @@
 # XORbmpFiles
 
-Calcula la operación XOR sobre los píxeles de imágenes con el formato BMP. 
+Calcula la operación XOR entre dos imágenes con formato BMP. 
 La cabecera está establecida a 54 B y no se controlan imágenes de distinto número de Bytes.
 
 | imagen1  | imagen2 | XOR |
