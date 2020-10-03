@@ -18,7 +18,7 @@ $ ./xorbmp ./examples/data.bmp ./examples/key.bmp
 ```
 
 
-## xor2bmp
+## keyTobmp
 
 | clave | imagen resultante |
 | ------------- | ------------- |
