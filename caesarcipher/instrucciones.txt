@@ -1,0 +1,11 @@
+****** EJERCICIO 1 - DESPLAZAMIENTO DE UN ALFABETO ******
+
+Opción.1:
+	usar netbeans
+
+
+Opción.2:
+	desde la terminal ejecutar el .class que contiene el main
+	
+	java -cp target/classes e1.Desplazamiento texto.txt descifrar 14
+	

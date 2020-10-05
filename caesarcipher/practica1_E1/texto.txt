@@ -1,0 +1,2 @@
+Para trabajar con enteros en lugar de con letras, puedes aprovechar que en ASCII la letra A
+se codifica con el valor decimal 65, y ası́ sucesivamente.
